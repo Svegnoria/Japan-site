@@ -1,0 +1,48 @@
+h1 {
+    color: rgb(230, 4, 4);
+}
+
+ul {
+    border: 5px dashed;
+    width: 50%
+    margin: auto;
+    text-align: center;
+    padding left:
+}
+
+ul li{
+    border: outset;
+    width: 50px;
+  margin: auto;
+    text-align: center;
+    list-style: none
+    padding left: 0;
+}
+
+ul li a{
+border: outset;
+display: inline-block;
+padding-left: 80px
+
+}
+
+
+img {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+#pic1{
+
+}
+
+#pic2{
+margin: auto;
+
+}
+
+#pic3{
+margin-left: 50%;
+
+}
